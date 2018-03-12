@@ -1,0 +1,2 @@
+from soc import get_arch_messages_and_save_them_to_docx
+get_arch_messages_and_save_them_to_docx('all_girls')
